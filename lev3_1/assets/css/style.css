@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background: url(../img/t_logo.jpg);
+    background-image: url(../img/t_logo.jpg);
     font-size: 10px;
     text-align: center;
     background-size: cover;
