@@ -1,0 +1,18 @@
+li{
+    line-height: 1.5em;
+}
+
+ul{
+    padding-inline-start: 1.2em;
+}
+
+section{
+    font-size: 1.3rem;
+    border: 0.3rem solid red;
+}
+
+section ul ul ul ul li{
+    font-size: 1.3em;
+    color: red;
+}
+
